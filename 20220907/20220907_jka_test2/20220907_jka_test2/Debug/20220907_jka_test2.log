@@ -1,0 +1,4 @@
+﻿  20220907_jka_test2.cpp
+D:\Cprogram\20220907\20220907_jka_test2\20220907_jka_test2\20220907_jka_test2.cpp(11,5): error C3861: 'print': 식별자를 찾을 수 없습니다.
+D:\Cprogram\20220907\20220907_jka_test2\20220907_jka_test2\20220907_jka_test2.cpp(11,25): error C2143: 구문 오류: ';'이(가) ':' 앞에 없습니다.
+D:\Cprogram\20220907\20220907_jka_test2\20220907_jka_test2\20220907_jka_test2.cpp(11,25): error C2059: 구문 오류: ':'
