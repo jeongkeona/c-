@@ -1,0 +1,13 @@
+﻿  20220914_jka_test1.cpp
+D:\Cprogram\20220914\20220914_jka_test1\20220914_jka_test1\20220914_jka_test1.cpp(13,24): error C2059: 구문 오류: '상수'
+D:\Cprogram\20220914\20220914_jka_test1\20220914_jka_test1\20220914_jka_test1.cpp(15,12): warning C4473: 'printf': 서식 문자열에 대한 인수가 충분하게 전달되지 않았습니다.
+D:\Cprogram\20220914\20220914_jka_test1\20220914_jka_test1\20220914_jka_test1.cpp(15,12): message : 자리 표시자 및 해당 매개 변수에는 variadic 인수가 1개 필요하지만 0개가 제공되었습니다.
+D:\Cprogram\20220914\20220914_jka_test1\20220914_jka_test1\20220914_jka_test1.cpp(15,12): message : 누락된 variadic 인수 1이(가) 서식 문자열 '%d'에 필요합니다.
+D:\Cprogram\20220914\20220914_jka_test1\20220914_jka_test1\20220914_jka_test1.cpp(16,34): warning C4474: 'printf' : 서식 문자열에 전달된 인수가 너무 많습니다.
+D:\Cprogram\20220914\20220914_jka_test1\20220914_jka_test1\20220914_jka_test1.cpp(16,34): message : 자리 표시자 및 해당 매개 변수에는 variadic 인수가 1개 필요하지만 2개가 제공되었습니다.
+D:\Cprogram\20220914\20220914_jka_test1\20220914_jka_test1\20220914_jka_test1.cpp(19,11): warning C4473: 'scanf': 서식 문자열에 대한 인수가 충분하게 전달되지 않았습니다.
+D:\Cprogram\20220914\20220914_jka_test1\20220914_jka_test1\20220914_jka_test1.cpp(19,11): message : 자리 표시자 및 해당 매개 변수에는 variadic 인수가 1개 필요하지만 0개가 제공되었습니다.
+D:\Cprogram\20220914\20220914_jka_test1\20220914_jka_test1\20220914_jka_test1.cpp(19,11): message : 누락된 variadic 인수 1이(가) 서식 문자열 '%d'에 필요합니다.
+D:\Cprogram\20220914\20220914_jka_test1\20220914_jka_test1\20220914_jka_test1.cpp(23,11): warning C4473: 'scanf': 서식 문자열에 대한 인수가 충분하게 전달되지 않았습니다.
+D:\Cprogram\20220914\20220914_jka_test1\20220914_jka_test1\20220914_jka_test1.cpp(23,11): message : 자리 표시자 및 해당 매개 변수에는 variadic 인수가 1개 필요하지만 0개가 제공되었습니다.
+D:\Cprogram\20220914\20220914_jka_test1\20220914_jka_test1\20220914_jka_test1.cpp(23,11): message : 누락된 variadic 인수 1이(가) 서식 문자열 '%d'에 필요합니다.
